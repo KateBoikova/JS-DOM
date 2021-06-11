@@ -1,0 +1,23 @@
+html {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+button {
+  margin: 10px auto;
+  padding: 10px;
+  color: green;
+  font-weight: 700;
+  background-color: blanchedalmond;
+  display: block;
+}
+
+button:hover {
+  background-color: green;
+  color: blanchedalmond;
+}
+
+img {
+  width: 400px;
+
+}
